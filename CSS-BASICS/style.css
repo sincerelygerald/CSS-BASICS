@@ -1,0 +1,53 @@
+body {
+    
+    margin: 0%;
+    text-align: center;
+}
+
+
+.banner {
+    
+    background-color: #75421c;
+    color: black;
+    padding: 110px;
+}
+
+.banner h1 {
+    margin: 0;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #c4a264;
+    padding: 15px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: rgb(23, 109, 23);
+    font-weight: bold;
+    margin: 0 15px;
+}
+
+.content {
+    background-color: #c4a264;
+    padding: 20px;
+}
+
+.content h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: start;
+}
+
+.content p {
+    font-size: 1em;
+    color: rgb(88, 21, 21);
+    text-align: left;
+}
+
+#copyright p {
+     text-align: center;
+     color: black;
+}
